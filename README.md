@@ -1,16 +1,23 @@
-### Hi there 👋
+# About Me
 
-<!--
-**tymnik/tymnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, fellow coders and tech enthusiasts! 👋
 
-Here are some ideas to get you started:
+I'm Veronika, a dedicated Front-End Developer based in Kyiv. With a passion for creating engaging and user-friendly web experiences, I'm excited to share my journey in the world of front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Do
+
+As a Front-End Developer, I specialize in crafting the visual and interactive aspects of websites. My love for coding and design comes together to create seamless and visually appealing user interfaces. I've already had the pleasure of working on some team projects, and this is what I love the most.😍
+
+## My Toolbox 
+
+I improve my tech skills diligently:
+
+- HTML/CSS/SCSS
+- JavaScript
+- React
+- Node.js, npm
+- REST API
+
+Happy coding! 🚀✨
+
+![Coding](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
