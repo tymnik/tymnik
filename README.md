@@ -12,11 +12,11 @@ As a Front-End Developer, I specialize in crafting the visual and interactive as
 
 I improve my tech skills diligently:
 
-- HTML/CSS/SCSS
+- HTML5/CSS3/SCSS
 - JavaScript
-- React
+- React.js, Redux
 - Node.js, npm
-- REST API
+- REST API, axios
 
 Happy coding! 🚀✨
 
